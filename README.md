@@ -13,11 +13,6 @@
 - Currently on my way to have real programming experience through courses and projects
 ---
 
-## Portfolio Website (Occasionally Updated)
-https://suryansh.tech 
-
----
-
 ## Motivation
 > Building something that would help someone, or myself before anyone.
 
