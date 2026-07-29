@@ -53,9 +53,9 @@
 - AI-powered web app for students to research about colleges (planning)
 
 ### Low-level or Linux dedicated
-- A working fan support DKMS module for HP Motherboard 8BA9 (not included in the kernel driver hp_wmi)
-- Potentially a DKMS patch to hp_wmi
-- Simple shell functions for updating all packages at once (pacman, paru, AUR, flatpak, etc.) 
+- Patching ```hp-wmi.c``` to add thermal profile support for my motherboard (DONE)
+- Testing and patching more unsupported boards
+- Simple shell functions for updating all packages at once (pacman, paru, AUR, flatpak, etc.) (planning)
 - More common-use shell functions (planning)
 ---
 
