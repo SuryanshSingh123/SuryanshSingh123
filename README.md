@@ -1,6 +1,6 @@
 # HOME
 
-> "Did I ever tell you the definition of insanity?"
+> "Did I ever tell you what the definition of insanity is?"
 
 ---
 
@@ -59,4 +59,3 @@
 - More common-use shell functions (planning)
 ---
 
->credit for the first line goes to vaas from far cry 3
